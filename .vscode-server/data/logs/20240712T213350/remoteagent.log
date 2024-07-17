@@ -1,0 +1,25 @@
+2024-07-12 21:33:51.004 [info] 
+
+
+
+
+2024-07-12 21:33:51.025 [info] Extension host agent started.
+2024-07-12 21:33:51.112 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] New connection established.
+2024-07-12 21:33:51.635 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] New connection established.
+2024-07-12 21:33:51.642 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] <4727> Launched Extension Host Process.
+2024-07-12 22:27:01.748 [info] Getting Manifest... ms-vscode.live-server
+2024-07-12 22:27:04.063 [info] Installing extension: ms-vscode.live-server {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/coder123/.vscode-server/extensions/extensions.json","external":"file:///home/coder123/.vscode-server/extensions/extensions.json","path":"/home/coder123/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.1","date":"2024-07-09T22:10:42.119Z"}}
+2024-07-12 22:27:07.741 [info] Extension signature verification result for ms-vscode.live-server: Success. Executed: true. Duration: 2934ms.
+2024-07-12 22:27:07.916 [info] Extracted extension to file:///home/coder123/.vscode-server/extensions/ms-vscode.live-server-0.4.14: ms-vscode.live-server
+2024-07-12 22:27:07.934 [info] Renamed to /home/coder123/.vscode-server/extensions/ms-vscode.live-server-0.4.14
+2024-07-12 22:27:07.968 [info] Extension installed successfully: ms-vscode.live-server file:///home/coder123/.vscode-server/extensions/extensions.json
+2024-07-12 22:32:31.301 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] The client has reconnected.
+2024-07-12 22:32:31.545 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] The client has reconnected.
+2024-07-12 23:05:38.423 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] The client has reconnected.
+2024-07-12 23:05:39.008 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] The client has reconnected.
+2024-07-13 01:13:11.224 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] The client has reconnected.
+2024-07-13 01:13:11.620 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] The client has reconnected.
+2024-07-13 11:58:17.371 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] The client has reconnected.
+2024-07-13 11:58:17.795 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] The client has reconnected.
+2024-07-13 11:58:59.493 [info] [127.0.0.1][9f4ef3ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-13 11:58:59.623 [info] [127.0.0.1][a3a95970][ExtensionHostConnection] <4727> Extension Host Process exited with code: 0, signal: null.

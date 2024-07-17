@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #cbc181;
+    overflow: hidden;
+}
+
+.navbar a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 20px;
+    color: white white;
+}

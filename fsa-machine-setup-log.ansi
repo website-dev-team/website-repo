@@ -1,0 +1,33 @@
+[1;34m START development environment setup [0m
+
+[1;34m Enter your Ubuntu password when prompted [0m
+
+[0;34m Update apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Upgrade apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Install Ansible... [0m
+[1;34m START development environment setup [0m
+
+[1;34m Enter your Ubuntu password when prompted [0m
+
+[0;34m Update apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Upgrade apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Install Ansible... [0m
+sudo: 3 incorrect password attempts
+sudo: 3 incorrect password attempts
+sudo: 3 incorrect password attempts
+/bin/sh: 27: ansible-galaxy: not found
+[1;34m START development environment setup [0m
+
+[1;34m Enter your Ubuntu password when prompted [0m
+
+[0;34m Update apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Upgrade apt package manager... [0m
+sudo: 3 incorrect password attempts
+[0;34m Install Ansible... [0m
+sudo: 3 incorrect password attempts
+sudo: 3 incorrect password attempts
