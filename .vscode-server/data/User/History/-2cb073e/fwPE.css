@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #59c746;
+    overflow: hidden;
+}
+
+.navbar a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 20px;
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: white;
+    color: black;
+}
+
+.navbar .logo {
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+}
