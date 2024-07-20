@@ -1,0 +1,79 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+.square {
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(135, 168, 120);
+    z-index: 2;
+}
+.square2 {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(39, 72, 163);
+    z-index: 2;
+    padding: 150px;
+}
+.circle {
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+    border-radius: 50%;
+    z-index: 6;
+}
+
+.triangle {
+    width: 120px;
+    height: 25px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid green;
+    z-index: 2;
+}
+
+.triangle2 {
+    position: relative;
+    top: -400px;
+    width: 10px;
+    height: 10px;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 500px solid rgb(117, 207, 117);
+    bottom: 150px;
+    z-index: 4;
+   
+}
+#additional code
+
+.parent {
+    position: relative;
+    z-index: 3;
+}
+
+.parent .child {
+    display: flex;
+    gap: 10px;
+}
+
+.parent .child .circle {
+    z-index: 2;
+}
+
+.parent .child .triangle {
+    z-index: 1;
+}
+
