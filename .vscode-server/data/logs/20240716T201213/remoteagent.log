@@ -7,3 +7,7 @@
 2024-07-16 20:12:13.928 [info] [127.0.0.1][0806cbee][ManagementConnection] New connection established.
 2024-07-16 20:12:14.329 [info] [127.0.0.1][2c5a77e2][ExtensionHostConnection] New connection established.
 2024-07-16 20:12:14.337 [info] [127.0.0.1][2c5a77e2][ExtensionHostConnection] <484> Launched Extension Host Process.
+2024-07-16 20:58:21.626 [info] [127.0.0.1][2c5a77e2][ExtensionHostConnection] The client has reconnected.
+2024-07-16 20:58:21.795 [info] [127.0.0.1][0806cbee][ManagementConnection] The client has reconnected.
+2024-07-16 20:59:07.328 [info] [127.0.0.1][0806cbee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-16 20:59:07.461 [info] [127.0.0.1][2c5a77e2][ExtensionHostConnection] <484> Extension Host Process exited with code: 0, signal: null.

@@ -74,3 +74,22 @@ git add .
 git status
 git commit -m "(style): styled navbar"
 git push
+git
+git status
+git add .
+git status
+git commit -m "Completed all features for Block 9"
+git push
+git add .
+git commit -m "added js. console.log"
+git push
+git clone https://github.com/website-dev-team/Picasso
+ls
+cd picasso
+cd /picasso
+cd Picasso
+ls
+git push origin main
+git remote add boilermaker https://github.com/FullstackAcademy/univ-boilerplate
+git fetch boilermaker
+git merge boilermaker/master
